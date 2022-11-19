@@ -1,15 +1,12 @@
+h1{
+    color: darkturquoise;
+}
+h1{
+    background-color: rgb(231, 197, 2);
+}
+h3{
+    color:red;
+}
 p{
-    color: chartreuse;
-}
-h{
-    color: 0lo;
-}
-h1{
-    color: cyan;
-}
-h1,3,4,5,6,7,{
-colgroup::first-letter
-}
-h1{
-    background-color: gainsboro;
+    color:lime;
 }
