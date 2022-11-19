@@ -1,0 +1,15 @@
+p{
+    color: chartreuse;
+}
+h{
+    color: 0lo;
+}
+h1{
+    color: cyan;
+}
+h1,3,4,5,6,7,{
+colgroup::first-letter
+}
+h1{
+    background-color: gainsboro;
+}
